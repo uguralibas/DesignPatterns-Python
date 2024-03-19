@@ -1,6 +1,9 @@
 # DESIGN PATTERNS #
 
-## Creational Patterns (Oluşturma Desenleri) ## 
+__Kaynak__
+* [Refactoring Guru](https://refactoring.guru/design-patterns/python)
+
+## Creational Patterns (Oluşturma Desenleri) ##
 * Abstract Factory
     >Abstract(soyut) Factory tasarım deseni, birbirine bağımlı nesnelerin ailesini oluşturmak için kullanılır ve bu nesnelerin nasıl oluşturulacağını gizler. Bir Abstract Factory, ilgili nesnelerin bir ailesini oluşturan ve bu nesnelerin nasıl oluşturulacağını tanımlayan bir arayüz sağlar. Ardından, somut fabrika sınıfları, bu arayüzü uygular ve belirli bir nesne ailesini oluşturur.
 
